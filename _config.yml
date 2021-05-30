@@ -1,1 +1,21 @@
-theme: jekyll-theme-slate
+remote_theme: "jeffreytse/jekyll-theme-yat"
+
+title: FrankPasqualini.com
+email: PasqualiniFrank@gmail.com
+author: Frank-Pasqualini
+description: >-
+  The portfolio site for Frank Pasqualini.
+
+baseurl: ""
+url: "https://www.FrankPasqualini.com"
+# favicon: "TODO"
+
+# google_analytics: [Tracking ID]
+
+sitemap: true
+
+theme_color: "#090a0b"
+
+brand_color: "#0784b5"
+
+night_mode: "on"
